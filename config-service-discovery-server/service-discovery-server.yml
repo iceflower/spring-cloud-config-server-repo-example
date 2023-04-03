@@ -1,9 +1,0 @@
-server:
-  http2:
-    enabled: true
-  shutdown: graceful
-
-eureka:
-  client:
-    register-with-eureka: false
-    fetch-registry: false
