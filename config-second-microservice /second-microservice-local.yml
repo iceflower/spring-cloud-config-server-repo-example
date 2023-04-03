@@ -1,2 +1,6 @@
 server:
   port: 0
+
+custom-value:
+  first: "hello! this is second-msa's first value!"
+  second: "hello! this is second-msa's second value!"
